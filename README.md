@@ -2,8 +2,8 @@
 Simulation of a integrated home security system complete with GUI interface and sensor detection.
 
 ## Purpose
-1. Junior Software Engineering Project
-2. Work in a group of 3 and learn to set project deadlines and expectations
+1. Junior Software Engineering Project.
+2. Work in a group of 3 and learn to set project deadlines and expectations.
 3. Develop software project design documents such as UML, Gantt Chart, Sequence Diagram, Use Case Diagrams, and Requirement Documents.
 4. Worked through roadblocks and setbacks if members were not sticking to deadlines.
 5. Established Junit test cases.
