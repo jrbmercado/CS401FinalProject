@@ -19,9 +19,9 @@ Simulation of a integrated home security system complete with GUI interface and 
 4. Design the project so it can be implimented across many homes and managed in a database.
 5. Use object oriented design to split responsibilities into three components:
 	- 911-Dispatch
-			- Simulated 911 response: provided ETA time and the type of emergency response coming.
+		- Simulated 911 response: provided ETA time and the type of emergency response coming.
 	- Home-Alarm System
-	    - Determined when an emergency is occuring from sensors.
-	    - Sends client information to 911 dispatch when emergency is triggered.
+		- Determined when an emergency is occuring from sensors.
+		- Sends client information to 911 dispatch when emergency is triggered.
 	- Simulated News Feed
-	    - Allows users to browse and create new crime reports.
+		- Allows users to browse and create new crime reports.
