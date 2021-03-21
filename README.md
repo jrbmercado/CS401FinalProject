@@ -9,8 +9,8 @@ Simulation of a integrated home security system complete with GUI interface and 
 5. Established Junit test cases.
 
 ## Tools Used
-Junit
-Eclipse
+1. Junit
+2. Eclipse
 
 ## Logic
 1. Have a central GUI interface that connects directly to emergency services and sensors placed throughout the house.
