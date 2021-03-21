@@ -1,4 +1,4 @@
-# Home Security System
+# BKJ Home Security System
 Simulation of a integrated home security system complete with GUI interface and sensor detection.
 
 ## Purpose
